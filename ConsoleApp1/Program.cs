@@ -72,6 +72,7 @@ namespace ConsoleApp1
 
         }
 
+        //menu list print method
         private static void PrintMenuList(List<string> menus, List<int> prices)
         {
             Console.WriteLine("  ");
