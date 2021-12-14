@@ -18,7 +18,6 @@ namespace ConsoleApp1
             pilihan:
                 // print menu
                 PrintMenuList(menus, prices);
-                // try catch examination
                 try
                 {
                     //Order Procedure
